@@ -1,0 +1,15 @@
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\bin\Debug\net5.0\HexadecimalConvert.exe
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\bin\Debug\net5.0\HexadecimalConvert.deps.json
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\bin\Debug\net5.0\HexadecimalConvert.runtimeconfig.json
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\bin\Debug\net5.0\HexadecimalConvert.runtimeconfig.dev.json
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\bin\Debug\net5.0\HexadecimalConvert.dll
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\bin\Debug\net5.0\ref\HexadecimalConvert.dll
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\bin\Debug\net5.0\HexadecimalConvert.pdb
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\obj\Debug\net5.0\HexadecimalConvert.GeneratedMSBuildEditorConfig.editorconfig
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\obj\Debug\net5.0\HexadecimalConvert.AssemblyInfoInputs.cache
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\obj\Debug\net5.0\HexadecimalConvert.AssemblyInfo.cs
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\obj\Debug\net5.0\HexadecimalConvert.csproj.CoreCompileInputs.cache
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\obj\Debug\net5.0\HexadecimalConvert.dll
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\obj\Debug\net5.0\ref\HexadecimalConvert.dll
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\obj\Debug\net5.0\HexadecimalConvert.pdb
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\HexadecimalConvert\obj\Debug\net5.0\HexadecimalConvert.genruntimeconfig.cache

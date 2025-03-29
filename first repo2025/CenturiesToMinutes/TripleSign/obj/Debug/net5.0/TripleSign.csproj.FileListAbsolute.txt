@@ -1,0 +1,15 @@
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\bin\Debug\net5.0\TripleSign.exe
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\bin\Debug\net5.0\TripleSign.deps.json
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\bin\Debug\net5.0\TripleSign.runtimeconfig.json
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\bin\Debug\net5.0\TripleSign.runtimeconfig.dev.json
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\bin\Debug\net5.0\TripleSign.dll
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\bin\Debug\net5.0\ref\TripleSign.dll
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\bin\Debug\net5.0\TripleSign.pdb
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\obj\Debug\net5.0\TripleSign.GeneratedMSBuildEditorConfig.editorconfig
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\obj\Debug\net5.0\TripleSign.AssemblyInfoInputs.cache
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\obj\Debug\net5.0\TripleSign.AssemblyInfo.cs
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\obj\Debug\net5.0\TripleSign.csproj.CoreCompileInputs.cache
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\obj\Debug\net5.0\TripleSign.dll
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\obj\Debug\net5.0\ref\TripleSign.dll
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\obj\Debug\net5.0\TripleSign.pdb
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\TripleSign\obj\Debug\net5.0\TripleSign.genruntimeconfig.cache
