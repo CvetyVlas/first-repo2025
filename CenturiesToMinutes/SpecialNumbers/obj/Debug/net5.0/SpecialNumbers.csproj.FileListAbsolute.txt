@@ -1,0 +1,15 @@
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\bin\Debug\net5.0\SpecialNumbers.exe
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\bin\Debug\net5.0\SpecialNumbers.deps.json
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\bin\Debug\net5.0\SpecialNumbers.runtimeconfig.json
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\bin\Debug\net5.0\SpecialNumbers.runtimeconfig.dev.json
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\bin\Debug\net5.0\SpecialNumbers.dll
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\bin\Debug\net5.0\ref\SpecialNumbers.dll
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\bin\Debug\net5.0\SpecialNumbers.pdb
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\obj\Debug\net5.0\SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\obj\Debug\net5.0\SpecialNumbers.AssemblyInfoInputs.cache
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\obj\Debug\net5.0\SpecialNumbers.AssemblyInfo.cs
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\obj\Debug\net5.0\SpecialNumbers.csproj.CoreCompileInputs.cache
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\obj\Debug\net5.0\SpecialNumbers.dll
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\obj\Debug\net5.0\ref\SpecialNumbers.dll
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\obj\Debug\net5.0\SpecialNumbers.pdb
+F:\Обучение за ИТ кариера\5 пета група\Модул 2\Материали\02. Типове данни\CenturiesToMinutes\SpecialNumbers\obj\Debug\net5.0\SpecialNumbers.genruntimeconfig.cache
